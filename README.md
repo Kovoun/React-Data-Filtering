@@ -5,10 +5,10 @@ To start this project, follow a few steps:
 1. Download and open the project in Visual Studio code
 
 2. Open the terminal and type: <br />
-    npm install --save react-date-range <br />
-    npm install --save react date-fns
+    <strong>npm install --save react-date-range <br />
+            npm install --save react date-fns </strong>
 
-3. After installation completed, type npm run start
+3. After installation completed, type <strong> npm run start </strong>
 
 4. Now open the web browser and type localhost:3000 and App is ready to use!
 
