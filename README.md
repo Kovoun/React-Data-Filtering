@@ -2,7 +2,7 @@
 
 To start this project, follow a few steps:
 
-1. Install and open the project in Visual Studio code
+1. Download and open the project in Visual Studio code
 
 2. Open the terminal and type 
     npm install --save react-date-range
