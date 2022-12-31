@@ -1,4 +1,4 @@
- # React data filtering with date range
+ # User data filtering with date range
 
 To start this project, follow a few steps:
 
