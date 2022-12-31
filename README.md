@@ -1,4 +1,4 @@
- # User data filtering with date range
+ # Users data filtering with date range
 
 To start this project, follow a few steps:
 
