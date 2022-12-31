@@ -4,8 +4,8 @@ To start this project, follow a few steps:
 
 1. Download and open the project in Visual Studio code
 
-2. Open the terminal and type 
-    npm install --save react-date-range
+2. Open the terminal and type: <br />
+    npm install --save react-date-range <br />
     npm install --save react date-fns
 
 3. After installation completed, type npm run start
