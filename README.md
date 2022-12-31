@@ -1,3 +1,5 @@
+ # React data filtering with date range
+
 To start this project, follow a few steps:
 
 1. Install and open the project in Visual Studio code
