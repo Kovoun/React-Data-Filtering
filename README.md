@@ -1,5 +1,9 @@
  # Users data filtering with date range
 
+Requirements:
+ - Visual Studio Code
+ - Node.js
+
 To start this project, follow a few steps:
 
 1. Download and open the project in Visual Studio code
